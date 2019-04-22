@@ -4,7 +4,7 @@
 2. you must create a folder where your downloaded image will be stored   
 3. open your 'system pref.' > 'desktop and screen saver', choose custom location (folder) and add the folder you have just created, where your image will be stored  
 4. check **change picture:** and change it to **daily**  
-5. install jq via homebrew -> **brew install jq**
+5. install `jq` via homebrew -> **brew install jq**
 
 ## how to  
 if you checked all the prerequisites you will have to adjust the shell skript and the plist.file.  

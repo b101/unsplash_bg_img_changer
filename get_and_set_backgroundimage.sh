@@ -6,7 +6,7 @@ filename='bkg_image.jpg'
 
 #unsplash api_key
 api_key='client_id=YOURAPIKEY'
-#unsplash width & height value for image
+#unsplash width & height value for image (can be changed)
 width='5120'
 height='2880'
 #if your looking for images containing a certain keyword
