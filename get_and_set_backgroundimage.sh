@@ -1,6 +1,6 @@
 #!/bin/sh
 #path to the location you want to store the downloaded image in
-save_to='/Users/YOURUSERNAME/Pictures/unsplash_bkgimages/'
+save_to='/PATH/TO/YOUR/FOLDER/'
 #the file name which the image will be stored under (obviously)
 filename='bkg_image.jpg'
 
@@ -10,7 +10,7 @@ api_key='client_id=YOURAPIKEY'
 width='5120'
 height='2880'
 #if your looking for images containing a certain keyword
-query='Croatia'
+query='YOURKEYWORD'
 
 #api url you are about to call using the defined unsplash settings
 url="https://api.unsplash.com/photos/random?$api_key&w=$width&h=$height&query=$query"
