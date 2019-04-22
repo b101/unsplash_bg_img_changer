@@ -10,7 +10,7 @@
     <key>Label</key>
     <string>com.bkgimagechanger</string>
     <key>Program</key>
-    <string>/Users/branimir/Pictures/unsplash_bkgimages/get_and_set_backgroundimage.sh</string>
+    <string>/PATH/TO/YOUR/FOLDER/get_and_set_backgroundimage.sh</string>
     <key>RunAtLoad</key>
     <true/>
     <key>KeepAlive</key>
@@ -18,8 +18,8 @@
     <key>LaunchOnlyOnce</key>
     <true/>
     <key>StandardOutPath</key>
-    <string>/Users/branimir/Pictures/unsplash_bkgimages/startup.stdout</string>
+    <string>/PATH/TO/YOUR/FOLDER/startup.stdout</string>
     <key>StandardErrorPath</key>
-    <string>/Users/branimir/Pictures/unsplash_bkgimages/startup.stderr</string>
+    <string>/PATH/TO/YOUR/FOLDER/startup.stderr</string>
   </dict>
 </plist>
