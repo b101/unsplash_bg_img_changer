@@ -13,7 +13,7 @@ you will have to change the path to your folder, where the image will be stored.
 ```shell
 save_to='/PATH/TO/YOUR/FOLDER/'
 ```    
-you will have to change the *YOURAPIKEY* with the api_key you got from your unsplash.com account (you should have created one in prerequisites)  
+you will have to change the *YOURAPIKEY* with the api_key you got from your unsplash.com account (you should have created one in prerequisites). don't delete the `client_id=` part by accident, just replace `YOURAPIKEY` with your api_key  
 ```shell
 api_key='client_id=YOURAPIKEY'
 ```   
